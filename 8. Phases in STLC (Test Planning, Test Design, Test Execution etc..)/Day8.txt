@@ -1,0 +1,4 @@
+Day-8
+----------
+STLC - Software Testing Life Cycle
+--------
