@@ -1,2 +1,2 @@
-# Manual-Testing_STLC-
-This comprehensive set of notes covers key topics from the Udemy course on Manual Testing, Software Testing Life Cycle (STLC), Agile methodologies, and Jira.
+# Manual Testing, STLC, Agile, Jira, e-Commerce Project
+This comprehensive set of notes covers key topics from the Udemy course on Manual Testing, Software Testing Life Cycle (STLC), Agile methodologies, and Jira. It includes detailed insights into the processes and best practices of manual testing, thorough explanations of STLC phases, practical applications of Agile principles, and effective use of Jira for project management. Additionally, it features a case study on an e-commerce project, providing real-world context and hands-on examples to enhance learning and application.
